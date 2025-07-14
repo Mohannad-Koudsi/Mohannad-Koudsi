@@ -16,7 +16,7 @@
 - **Cohort Retention Analysis** to uncover user behavior trends  
 - **NYC Airbnb Data Analysis** to identify performance-driving factors
 
-🎯 I specialize in pattern recognition, analytical thinking, and clear communication. I’m also exploring cloud-integrated BI tools to stay ahead in the evolving data landscape.
+🎯 I specialize in pattern recognition, analytical thinking, and clear communication. 
 
 ---
 
